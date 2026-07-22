@@ -45,3 +45,23 @@ I'm passionate about technology and currently building my skills in programming,
 ## 📫 Connect with me
 
 GitHub: https://github.com/afreeditechy-cloud
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=afreeditechy-cloud&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afreeditechy-cloud&layout=compact&theme=tokyonight" />
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=afreeditechy-cloud&theme=tokyonight" />
+</p>
+## 🎯 Current Focus
+
+- 📚 Learning Data Structures & Algorithms
+- 🐧 Exploring Linux
+- 🔐 Building Cybersecurity Skills
+- ☕ Improving Java
+- 🐍 Practicing Python
+- 💻 Creating Real-World Projects
+  
