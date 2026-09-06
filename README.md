@@ -3,21 +3,21 @@
 </p>
 # Hi there 👋, I'm Mohammed Afreedi
 
-## 💻 Aspiring Software Developer & Cybersecurity Learner
+## 💻 Aspiring Software Developer ##
 
-I'm passionate about technology and currently building my skills in programming, data structures, databases, Linux, and cybersecurity.
+I'm passionate about technology and currently building my skills in programming,full stack development, databases.
 
 ---
 
 ## 🚀 Currently Learning
 
-- 🌱 C Programming
-- ☕ Java
-- 🐍 Python
-- 📚 Data Structures & Algorithms
-- 🗄️ SQL & MongoDB
-- 🐧 Linux
-- 🔐 Cybersecurity
+-  React
+-  javascript
+-  Python
+-  FastAPI
+-  PostgreSQL
+-  Data Structures & Algorithms
+-  SQL & MongoDB
 - 🌐 Git & GitHub
 
 ---
@@ -36,7 +36,6 @@ I'm passionate about technology and currently building my skills in programming,
 
 - Build strong programming fundamentals
 - Master Data Structures & Algorithms
-- Learn Cybersecurity
 - Contribute to Open Source
 - Build real-world projects
 
@@ -59,8 +58,7 @@ GitHub: https://github.com/afreeditechy-cloud
 ## 🎯 Current Focus
 
 - 📚 Learning Data Structures & Algorithms
-- 🐧 Exploring Linux
-- 🔐 Building Cybersecurity Skills
+- 🔐 Building FullStack development
 - ☕ Improving Java
 - 🐍 Practicing Python
 - 💻 Creating Real-World Projects
